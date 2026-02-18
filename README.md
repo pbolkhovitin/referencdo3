@@ -577,8 +577,6 @@ Script execution time (in seconds) = 1.23
 
 ---
 
-## ✅ **Вердикт**
-
 ```
 [СИСТЕМА] Linux Monitoring v1.0
 [СТАТУС] ВЫПОЛНЕН
